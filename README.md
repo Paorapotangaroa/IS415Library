@@ -6,4 +6,4 @@ Turns out I didn't actually have anything to be worried about :)
 
 This was abandoned because, in an attempt to give the programmer fine-tuned control, I realized I was essentially just rebranding/renaming the pre-existing functions in the seaborn, matplotlib, and other libraries.
 
-I may come back to this. I learned a lot about Machine Learning and Data Analysis from this and I could stand to learn some more.
+I may come back to this eventually. I learned a lot about Machine Learning and Data Analysis from this and I could stand to learn some more.
